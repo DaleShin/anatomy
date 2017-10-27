@@ -7,7 +7,7 @@ What the instructor needs :
 1. Major Interactive Function
 2. Clickable Page (ex. open things up&close), Multiple page.
 3. Event element (grab a attention more than a minute)
-4. Same layout but differnt contents. 
+4. Same layout but differnt contents. (Sasswise! same elements, same grouping)
 5. Time line.
 
 Brainstorming for ideas
